@@ -1,5 +1,7 @@
 # Kotlin_Room_DB_Notes
 
-Рефакторинг проекта https://github.com/vv73/Kotlin_DB_Notes
 
-(использована библиотека Room и данные выводятся в RecyclerView)
+
+
+https://github.com/MbNextT1me/KotlinDBNotes/assets/70710273/48bf6118-c5c1-472b-bd4b-3a369534a326
+
